@@ -3,7 +3,7 @@ A Linear A decipherment programme written in Python language
 
 This is a guide for users of the Linear A decipherment programme
 
-1. Overview 
+##1. Overview 
 The main window of our programme presents four key analysis functions 
    - General decipherment
    - LinAfontConv
@@ -11,7 +11,7 @@ The main window of our programme presents four key analysis functions
    - Analysis - I
 This programme aims to to provide automated methods to evaluate languages which greatly resemble Linear A.
 
-2. Specific Decipherment
+##2. Specific Decipherment
 There are 9 built-in dictionaries for comparison with Linear A available in this function. These include Hamito-Semitic, Ancient Egyptian, Albanian, Luwian, Proto-Celtic, Anatolia, Basque (Both Pre-Basque and Proto-Basque), Hittite and Thracian.
 
 -Interpreting Output
@@ -24,7 +24,7 @@ For example, the triplet 100 matched with the letter 'd' once, but matched with 
 
 Under the percentage analysis function, it provides the statistical analysis of the matches between the Luwian dictionary as well as the transcribed Linear A sources (GORILA volumes 1 - 5 inclusive). The analysis involve the number of unique matches, the total number of matches as well as the percentage of matches.
 
-3. General Decipherment 
+##3. General Decipherment 
 The General Decipherment function enables dynamic comparisons - users can supply their own Linear A list ("base sheet") and the dictionary list ("comparison sheet"). 
 
 3.1 Formating Input
