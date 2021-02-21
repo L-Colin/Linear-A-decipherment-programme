@@ -1,6 +1,11 @@
 # Linear-A-decipherment-programme
 A Linear A decipherment programme written in Python language
 
+The main python libraries used include
+   - PyQt5
+   - pandas
+   - openpyxl
+   - 
 This is a guide for users of the Linear A decipherment programme
 
 ## Overview 
