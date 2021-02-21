@@ -59,10 +59,43 @@ This function also provides the output from a consonantal comparison, similar to
 
 Assuming this is a dynamic comparison between the Linear A base sheet and an unknown comparison sheet, we see that the consonant cluster "kns" has 6 identical matches with the corresponding Linear A words, the original word and its corresponding source. The original word refers to the corresponding word in the comparison sheet.
 
+### LinAfontConv
 
+This function allows user to include Linear A fonts into their spreadsheet file. The Linear A fonts are from the "LinearADraft1.otf" file present in the directory.
 
+#### Input file
 
+The input spreadsheet file has to be of Microsoft Excel Open XML Spreadsheet (XLSX) format.
 
+The entries in the file must be listed exactly as shown, "Identical Matches", "Linear A word", "Original_Word", "Source". This function would take data from the "B" column (under "Linear A word") and convert them into Linear A fonts in a separate column.
+
+![linafontconv 0](https://user-images.githubusercontent.com/79370985/108615706-b008e000-7441-11eb-95e0-b3410acf6a72.JPG)
+
+#### Interpreting Output
+
+The addition of the Linear A fonts would be automatically saved in your XLSX spreadsheet file in the same directory. Also, the changes would be displayed in the programme as shown, where the Linear A fonts are displayed in the 5th column.
+
+![linafontconv 1](https://user-images.githubusercontent.com/79370985/108615709-b9924800-7441-11eb-812a-46205e4eb9ad.JPG)
+
+### Analysis - I
+
+This function provides a comparison result between the results of the dictionaries used Specific Decipherment. These dictionaries include Hamito-Semitic, Luwian, Anatolia, Basque (Pre-Basque and Proto-Basque), Hittite and Thracian.
+
+#### Interpreting Output
+
+The results would be displayed in a table format consisting of four columns titled "Identical Matches", "Dictionary Word", "Frequency", "Percentage".
+
+Under "Identical matches", it would reflect the a matched cluster common among the dictionaries listed above. 
+
+Under "Dictionary Word", it would show the original words from the dictionaries that provides the matched cluster after the provisional removal of the vowels. This result would be displayed in a list format in this order,
+
+[Anatolia, Hittite, Luwian, Thracian, Pre-Basque, Proto-Basque, Hamito-Semitic]
+
+Under "Linear A word", it would reflect which Linear A word provides the matched cluster after the provisional removal of the vowels.
+
+Under "Frequency", it would show the number of occurrences of each matched cluster present in each dictionary.
+
+Under "Percentage", it would output the relative percentage of occurrence of each matched cluster among the other dictionaries.
 
 
 
