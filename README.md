@@ -103,10 +103,16 @@ Under "Frequency", it would show the number of occurrences of each matched clust
 Under "Percentage", it would output the relative percentage of occurrence of each matched cluster among the other dictionaries.
 
 
+#### Dictionary Source
+Albanian - Vladimir E. Orel (2000), A Concise Historical Grammar of the Albanian Language: Reconstruction of Proto-Albanian
 
+Anatolian - Ronald Kim, Norbert Oettinger, Elisabeth Rieken, Michael Weiss (2010), Ex Anatolia Lux: Anatolian and Indo-european Studies in Honor of H. Craig Melchert on the Occasion on His Sixty-fifth Birthday
 
+Basque - Trask Larry (2008), Etymological Dictionary of Basque
 
+Ancient Egyptian - E.A. Wallis Budge (1978), An Egyptian Hieroglyphic Dictionary : With an Index of English Words, King List, and Geographical List with Indexes, List of Hieroglyphic Characters, Coptic and Semitic Alphabets (Vol 1) and Paul Dickson (2014), Dictionary of Middle Egyptian.
 
+Hamito-Semitic - Vladimir E. Orel
 
 
 
