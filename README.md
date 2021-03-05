@@ -22,7 +22,7 @@ This programme aims to to provide automated methods to evaluate languages which 
 ## Specific Decipherment
 There are 9 built-in dictionaries for comparison with Linear A available in this function. These include Hamito-Semitic, Ancient Egyptian, Albanian, Luwian, Proto-Celtic, Anatolia, Basque (Both Pre-Basque and Proto-Basque), Hittite and Thracian.
 
-![specific decipherment1](https://user-images.githubusercontent.com/79370985/108601902-15c18180-73da-11eb-80f7-8d70d409e528.JPG)
+![image1](https://user-images.githubusercontent.com/79370985/110068897-a1abb400-7db1-11eb-8dba-a859c6e41688.JPG)
 
 ### Interpreting Output
 The output for each specific decipherment contains two tables. The first of which is a result of a consonantal comparison - vowels in the dictionaries were conditionally ignored to produce a one-to-one comparison between consonants. After performing said comparison, positive matches are displayed as shown.
