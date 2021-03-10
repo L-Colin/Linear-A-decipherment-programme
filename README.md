@@ -1,5 +1,6 @@
-# Linear-A-decipherment-programme
-A Linear A decipherment programme written in Python language
+# Linear-A-decipherment-programme (Open Source)
+A Linear A decipherment programme written in Python language, under the guidance of Dr.Francesco Perono Cacciafoco (NTU, Singapore), Dr. Xu Duoduo (NTU, Singapore) together with the assistance of Chua Wen Qing (NTU, Singapore), Hu Man Keat (NTU NRP, Singapore) and Yu Ying Yao (NTU NRP, Singapore).
+
 
 The main python libraries used include
    - PyQt5
@@ -25,7 +26,7 @@ There are 9 built-in dictionaries for comparison with Linear A available in this
 ![image1](https://user-images.githubusercontent.com/79370985/110068897-a1abb400-7db1-11eb-8dba-a859c6e41688.JPG)
 
 ### Interpreting Output
-The output for each specific decipherment contains two tables. The first of which is a result of a consonantal comparison - vowels in the dictionaries were conditionally ignored to produce a one-to-one comparison between consonants. After performing said comparison, positive matches are displayed as shown.
+The output for each specific decipherment contains two tables. The first of which is a result of a consonantal comparison - vowels in the dictionaries ({'a','e','i','o','u'} in lower-case) were conditionally ignored to produce a one-to-one comparison between consonants. After performing said comparison, positive matches are displayed as shown.
 
 ![specific decipherment 2](https://user-images.githubusercontent.com/79370985/108601925-2bcf4200-73da-11eb-80e7-f0e8058fa752.JPG)
 
@@ -112,7 +113,16 @@ Basque - Trask Larry (2008), Etymological Dictionary of Basque
 
 Ancient Egyptian - E.A. Wallis Budge (1978), An Egyptian Hieroglyphic Dictionary : With an Index of English Words, King List, and Geographical List with Indexes, List of Hieroglyphic Characters, Coptic and Semitic Alphabets (Vol 1) and Paul Dickson (2014), Dictionary of Middle Egyptian.
 
-Hamito-Semitic - Vladimir E. Orel
+Hamito-Semitic - Vladimir E. Orel and  Olga V. Stolbova (1994), Hamito-Semitic Etymological Dictionary
+
+Hitttie - Jaan Puhvel (1991 - 2017),  ittite Etymological Dictionary, Volumes 1-10
+
+Luwian - H. Craig Melchert (2015) , Cuneiform Luvian Lexicon
+
+Proto-Celtic - Ranko Matasovic (2008), Etymological Dictionary of Proto-Celtic: 09
+
+Thracian - Sorin Paliga (2006), Etymological Lexicon of the Indigenous (Thracian) Elements in Romanian.
+
 
 
 
