@@ -1,5 +1,10 @@
-# Linear-A-decipherment-programme (Open Source)
-A Linear A decipherment programme written in Python language, under the guidance of Dr.Francesco Perono Cacciafoco (NTU, Singapore), Dr. Xu Duoduo (NTU, Singapore) together with the assistance of Chua Wen Qing (NTU, Singapore), Hu Man Keat (NTU NRP, Singapore) and Yu Ying Yao (NTU NRP, Singapore).
+# Linear-A-decipherment-programme 
+A Linear A decipherment programme written in Python language, under the guidance of Dr. Francesco Perono Cacciafoco (NTU, Singapore), Dr. Xu Duoduo (NTU, Singapore) together with the assistance of Chua Wen Qing (NTU, Singapore), Hu Man Keat (NTU NRP, Singapore) and Yu Ying Yao (NTU NRP, Singapore). 
+
+## Windows Interface
+Users can just open the shortcut "LinearADecipherment" application in the directory. The programme would start running. Do note that all files and folder need to be present in the working directory "LinearADecipherment" folder for the programme to run smoothly.
+
+![image](https://user-images.githubusercontent.com/79370985/111020634-57a27e00-8402-11eb-80a4-1f56cc95f50a.png)
 
 
 The main python libraries used include
