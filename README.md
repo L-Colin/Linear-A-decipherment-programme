@@ -72,7 +72,7 @@ Assuming this is a dynamic comparison between the Linear A base sheet and an unk
 
 ### LinAfontConv
 
-This function allows user to include Linear A fonts into their spreadsheet file. The Linear A fonts are from the "LinearADraft1.otf" file present in the directory.
+This function allows user to include Linear A fonts into their spreadsheet file. The Linear A fonts are from the "LinearADraft1.otf" file present in the directory. This Linear A font was a digital creation by a member in the NTU Singapore Linear A  Decipherment research team.
 
 #### Input file
 
