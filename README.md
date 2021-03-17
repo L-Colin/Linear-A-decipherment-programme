@@ -2,10 +2,14 @@
 A Linear A decipherment programme written in Python language, under the guidance of Dr. Francesco Perono Cacciafoco (NTU, Singapore), Dr. Xu Duoduo (NTU, Singapore) together with the assistance of Chua Wen Qing (NTU, Singapore), Hu Man Keat (NTU NRP, Singapore) and Yu Ying Yao (NTU NRP, Singapore). 
 
 ## Windows Interface
-Users can just open the shortcut "LinearADecipherment" application in the directory. The programme would start running. Do note that all files and folder need to be present in the working directory "LinearADecipherment" folder for the programme to run smoothly.
+Users can just open the shortcut "LinearADecipherment" application in the directory. The programme would start running. Do note that all files and folder need to be present in the working directory "LinearADecipherment" folder for the programme to run smoothly. The python file was converted to an .exe file via pyinstaller.
 
 ![image](https://user-images.githubusercontent.com/79370985/111020634-57a27e00-8402-11eb-80a4-1f56cc95f50a.png)
 
+### Mac Interface (suitable for MacOS High Sierra and lower)
+Users can just open the shortcut "LinearADecipherment" application in the directory. Similarly, the programme will start running, also note that all files and folder need to be present in the working directory "LinearADecipherment" folder. The python file was converted to an .exe file via py2app. 
+
+<img width="814" alt="Screen Shot 2021-03-17 at 10 13 19 PM" src="https://user-images.githubusercontent.com/79370985/111490584-1c8faa00-8776-11eb-8384-bffd98460789.png">
 
 The main python libraries used include
    - PyQt5
