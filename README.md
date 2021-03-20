@@ -1,6 +1,8 @@
 # Linear-A-decipherment-programme 
 A Linear A decipherment programme written in Python language, under the guidance of Dr. Francesco Perono Cacciafoco (NTU, Singapore), Dr. Xu Duoduo (NTU, Singapore) together with the assistance of Chua Wen Qing (NTU, Singapore), Hu Man Keat (NTU NRP, Singapore) and Yu Ying Yao (NTU NRP, Singapore). 
 
+This program has been funded by the MOE AcRF Tier 1 Research Grant 2017-T1-002-193 Giving Voice to the Minoan People: The Decipherment of Linear A (Principal Investigator: Dr Francesco Perono Cacciafoco, Nanyang Technological University) and has been developed in the context of the same project.
+
 ## Windows Interface
 Users can just open the shortcut "LinearADecipherment" application in the directory. The programme would start running. Do note that all files and folder need to be present in the working directory "LinearADecipherment" folder for the programme to run smoothly. The python file was converted to an .exe file via pyinstaller.
 
