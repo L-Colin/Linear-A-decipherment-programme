@@ -8,10 +8,22 @@ Users can just open the shortcut "LinearADecipherment" application in the direct
 
 ![image](https://user-images.githubusercontent.com/79370985/111020634-57a27e00-8402-11eb-80a4-1f56cc95f50a.png)
 
-### Mac Interface (suitable for MacOS High Sierra and lower)
-Users can just open the shortcut "LinearADecipherment" application in the directory. Similarly, the programme will start running, also note that all files and folder need to be present in the working directory "LinearADecipherment" folder. The python file was converted to an .exe file via py2app. 
+### Mac Interface
+Users can just open the shortcut "LinearADecipherment" application in the directory. Similarly, the programme will start running, also note that all files and folder need to be present in the working directory "LinearADecipherment" folder. The python file was converted to an application file via py2app. 
 
-<img width="814" alt="Screen Shot 2021-03-17 at 10 13 19 PM" src="https://user-images.githubusercontent.com/79370985/111490584-1c8faa00-8776-11eb-8384-bffd98460789.png">
+This is a link to download the application. https://www.dropbox.com/s/p8p519q8lhjmqgv/LinearADecipherment.zip?dl=0
+
+These are the necessary steps to successfully run the programme.
+   1) Download the zip file and extract it. Open the "dist" folder and copy and paste the "LinearADecipherment" application into the original directory.
+   2) Press control + left-click and click "open" on the "LinearADecipherment" application file.
+   3) Cancel the warning message by MacOS. 
+   ![ss 1](https://user-images.githubusercontent.com/79370985/112722676-e2789200-8f45-11eb-96ef-6f456ca0fbda.jpg)
+
+   4) Press control + left-click and click "open" on the "LinearADecipherment" application file again. ![ss 2](https://user-images.githubusercontent.com/79370985/112722686-f3c19e80-8f45-11eb-8a5a-ddd4ce3b2fa3.jpg)
+
+   5) Click the "open" button and the programme will run smoothly.
+
+
 
 The main python libraries used include
    - PyQt5
