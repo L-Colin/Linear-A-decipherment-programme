@@ -35,12 +35,11 @@ This is a guide for users of the Linear A decipherment programme
 ## Overview 
 The main window of our programme presents four key analysis functions 
    - General decipherment
-   - LinAfontConv
    - Specific Decipherment
    - Analysis - I
 This programme aims to to provide automated methods to evaluate languages which greatly resemble Linear A.
 
-![Front Overview](https://user-images.githubusercontent.com/79370985/108601868-e4e14c80-73d9-11eb-90b3-6dd2fafe52f8.JPG)
+![ss 3](https://user-images.githubusercontent.com/79370985/112866671-a3387580-90ec-11eb-8597-fa9f195054ce.jpg)
 
 
 ## Specific Decipherment
@@ -49,7 +48,7 @@ There are 9 built-in dictionaries for comparison with Linear A available in this
 ![image1](https://user-images.githubusercontent.com/79370985/110068897-a1abb400-7db1-11eb-8dba-a859c6e41688.JPG)
 
 ### Interpreting Output
-The output for each specific decipherment contains two tables. The first of which is a result of a consonantal comparison - vowels in the dictionaries ({'a','e','i','o','u'} in lower-case) were conditionally ignored to produce a one-to-one comparison between consonants. After performing said comparison, positive matches are displayed as shown.
+The output for each specific decipherment contains two tables. The first of which is a result of a consonantal comparison - vowels in the dictionaries ({'a','e','i','o','u', 'A', 'E', 'I', 'O', 'U'}) were conditionally ignored to produce a one-to-one comparison between consonants. After performing said comparison, positive matches are displayed as shown.
 
 ![specific decipherment 2](https://user-images.githubusercontent.com/79370985/108601925-2bcf4200-73da-11eb-80e7-f0e8058fa752.JPG)
 
@@ -68,43 +67,29 @@ The General Decipherment function enables dynamic comparisons - users can supply
 ### Formating Input
 
 #### Base Sheet
-The base sheet must be in the comma-separated values (.csv) format. 
+The base sheet must be in the Microsoft Excel Open XML Spreadsheet (.xlsx or .xls) format. 
 
 ![general decipherment base sheet](https://user-images.githubusercontent.com/79370985/108602016-bb74f080-73da-11eb-8ea2-968a35b7cf64.JPG)
 
 The entries must be listed as shown, in the order of "Source", "NEW FORMAT" and "Linear A". The source column is the corresponding source of the Linear A word and the linear A column shows the representation of the Linear A word in the base sheet.
 
 #### Comparison Sheet
-The comparison sheet must be in the .csv format as well. 
+The comparison sheet must be in the Microsoft Excel Open XML Spreadsheet (.xlsx or .xls) format as well. 
 
 ![general decipherment comparison sheet](https://user-images.githubusercontent.com/79370985/108602029-caf43980-73da-11eb-8ff5-fa6c19ccff78.JPG)
 
 The spreadsheet should contain only one column, which is represented as the "List" column as shown. The following entries are the words in the comparison dictionary.
 
 ### Interpreting Output
-This function also provides the output from a consonantal comparison, similar to that in Specific Decipherment. The results would be saved automatically under a CSV file titled New_matches2 in the same directory.
+This function also provides the output from a consonantal comparison, similar to that in Specific Decipherment. The results would be saved automatically under a Microsoft Excel Open XML Spreadsheet (.xlsx or .xls) file titled New_matches2 in the same directory.
 
-![general decipherment results](https://user-images.githubusercontent.com/79370985/108602113-32aa8480-73db-11eb-9b79-1b18d74f683b.JPG)
-
-Assuming this is a dynamic comparison between the Linear A base sheet and an unknown comparison sheet, we see that the consonant cluster "kns" has 6 identical matches with the corresponding Linear A words, the original word and its corresponding source. The original word refers to the corresponding word in the comparison sheet.
-
-### LinAfontConv
-
-This function allows user to include Linear A fonts into their spreadsheet file. The Linear A fonts are from the "LinearADraft1.otf" file present in the directory. This Linear A font was a digital creation by a member in the NTU Singapore Linear A  Decipherment research team.
-
-#### Input file
-
-The input spreadsheet file has to be of Microsoft Excel Open XML Spreadsheet (XLSX) format.
-
-The entries in the file must be listed exactly as shown, "Identical Matches", "Linear A word", "Original_Word", "Source". This function would take data from the "B" column (under "Linear A word") and convert them into Linear A fonts in a separate column.
-
-![linafontconv 0](https://user-images.githubusercontent.com/79370985/108615706-b008e000-7441-11eb-95e0-b3410acf6a72.JPG)
-
-#### Interpreting Output
+This function also allows users to include Linear A fonts into their spreadsheet file. The Linear A fonts are from the "LinearADraft1.otf" file present in the directory. This Linear A font was a digital creation by a member in the NTU Singapore Linear A Decipherment research team.
 
 The addition of the Linear A fonts would be automatically saved in your XLSX spreadsheet file in the same directory. Also, the changes would be displayed in the programme as shown, where the Linear A fonts are displayed in the 5th column.
 
-![linafontconv 1](https://user-images.githubusercontent.com/79370985/108615709-b9924800-7441-11eb-812a-46205e4eb9ad.JPG)
+![image3](https://user-images.githubusercontent.com/79370985/112866504-71271380-90ec-11eb-8da0-cae24bb4cbe9.jpg)
+
+Assuming this is a dynamic comparison between the Linear A base sheet and an unknown comparison sheet, we see that the consonant cluster "kns" has 6 identical matches with the corresponding Linear A words, the original word and its corresponding source. The original word refers to the corresponding word in the comparison sheet.
 
 ### Analysis - I
 
