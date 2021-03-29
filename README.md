@@ -39,7 +39,8 @@ The main window of our programme presents four key analysis functions
    - Analysis - I
 This programme aims to to provide automated methods to evaluate languages which greatly resemble Linear A.
 
-![Front Overview](https://user-images.githubusercontent.com/79370985/108601868-e4e14c80-73d9-11eb-90b3-6dd2fafe52f8.JPG)
+![ss 3](https://user-images.githubusercontent.com/79370985/112866671-a3387580-90ec-11eb-8597-fa9f195054ce.jpg)
+
 
 ## Specific Decipherment
 There are 9 built-in dictionaries for comparison with Linear A available in this function. These include Hamito-Semitic, Ancient Egyptian, Albanian, Luwian, Proto-Celtic, Anatolia, Basque (Both Pre-Basque and Proto-Basque), Hittite and Thracian.
@@ -86,7 +87,7 @@ This function also allows users to include Linear A fonts into their spreadsheet
 
 The addition of the Linear A fonts would be automatically saved in your XLSX spreadsheet file in the same directory. Also, the changes would be displayed in the programme as shown, where the Linear A fonts are displayed in the 5th column.
 
-![general decipherment results](https://user-images.githubusercontent.com/79370985/108602113-32aa8480-73db-11eb-9b79-1b18d74f683b.JPG)
+![image3](https://user-images.githubusercontent.com/79370985/112866504-71271380-90ec-11eb-8da0-cae24bb4cbe9.jpg)
 
 Assuming this is a dynamic comparison between the Linear A base sheet and an unknown comparison sheet, we see that the consonant cluster "kns" has 6 identical matches with the corresponding Linear A words, the original word and its corresponding source. The original word refers to the corresponding word in the comparison sheet.
 
